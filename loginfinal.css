@@ -1,9 +1,12 @@
-
+.texter
+{
+      font-size: 1vw;
+}
 .card
 {
 
-    width: 35%;
-  
+     width: 30vw;
+    height: 30vw;
 }
 .btn2
 {
@@ -14,7 +17,8 @@
 }
 .btn
 {
-  width: 400px;
+
+  width: 30vw;
  
 }
 .checkbox
